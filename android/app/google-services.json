@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757402159010",
+    "project_id": "tubes-skype",
+    "storage_bucket": "tubes-skype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757402159010:android:adb4ab87b2b01a892014fb",
+        "android_client_info": {
+          "package_name": "com.example.tubes_skype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757402159010-9946dcfjeb2ge8ubjhrk11911tkdt4ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tubes_skype",
+            "certificate_hash": "7302b634e2f2c13d84353b7283423bcd620efa41"
+          }
+        },
+        {
+          "client_id": "757402159010-quq9t0ms47dqgutn2gc7ib3umkhfu5q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVLO5Uy_s2hXPPNI_GPgJBoJZdJJIdNQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757402159010-quq9t0ms47dqgutn2gc7ib3umkhfu5q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
